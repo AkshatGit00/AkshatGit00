@@ -8,11 +8,11 @@
 
 ## 👨‍💻 About Me
 
-- 🔹 Software Engineer with **3 years of experience**
-- 🔹 Strong foundation in **C++**, **Python**, and **problem-solving**
-- 🔹 Experience with **automation, scripting, data cleaning, and analysis**
-- 🔹 Interested in **Backend Development, Computer Architecture and Scalable Systems**
-- 🔹 Actively looking for **Software Engineer / Backend Developer opportunities**
+- Software Engineer with **3 years of experience**
+- Strong foundation in **C++**, **Python**, and **problem-solving**
+- Experience with **automation, scripting, data cleaning, and analysis**
+- Interested in **Backend Development, Computer Architecture and Scalable Systems**
+- Actively looking for **Software Engineer / Backend Developer opportunities**
 
 ---
 
