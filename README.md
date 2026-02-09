@@ -22,7 +22,7 @@
 - C++, Python, SQL, JavaScript
 
 **Backend & Tools**
-- Django, REST APIs
+- Django, Flask, REST APIs
 - Git & GitHub
 - Docker (basic)
 
